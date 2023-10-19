@@ -1,0 +1,463 @@
+﻿AREA;EQUIPMENT GROUP;TAG;DESCRIPTION
+Oil plant;Compressor;11-VA-9101;1.stg.sep
+Oil plant;Compressor;11-VA-9103;Multipurpose
+Oil plant;Compressor;11-VA-9102;2.stg.sep
+Oil plant;Compressor;11-VD-9106;Well desander
+Oil plant;Compressor;V-704;WP Testseparator
+Oil plant;Export pump A;11-PA-9102;Export Pump A
+Oil plant;Export pump A;11-PA-9148;Lube Oil Pump A
+Oil plant;Export pump A;11-PA-9149;Lube Oil Pump B
+Oil plant;Export pump A;11-PA-9150;Seal Oil Pump A
+Oil plant;Export pump A;11-PA-9151;Seal Oil Pump B
+Oil plant;Export pump A;11-HB-9112;Lube Oil Cooler 1
+Oil plant;Export pump A;11-HB-9113;Lube Oil Cooler 2
+Oil plant;Export pump A;11-HB-9114;Seal Oil Cooler 1
+Oil plant;Export pump A;11-HB-9115;Seal Oil Cooler 2
+Oil plant;Export pump B;11-PA-9138;Export Pump B
+Oil plant;Export pump B;11-PA-9158;Lube Oil Pump A
+Oil plant;Export pump B;11-PA-9159;Lube Oil Pump B
+Oil plant;Export pump B;11-PA-9160;Seal Oil Pump A
+Oil plant;Export pump B;11-PA-9161;Seal Oil Pump B
+Oil plant;Export pump B;11-HB-9122;Lube Oil Cooler 1
+Oil plant;Export pump B;11-HB-9123;Lube Oil Cooler 2
+Oil plant;Export pump B;11-HB-9124;Seal Oil Cooler 1
+Oil plant;Export pump B;11-HB-9125;Seal Oil Cooler 2
+Oil plant;Booster pump A;11-PA-9101A;Oil Booster A
+Oil plant;Booster pump A;11-PA-9152A;Seal Oil Pump 1
+Oil plant;Booster pump A;11-PA-9153A;Seal Oil Pump 2
+Oil plant;Booster pump A;11-HB-9116A;Seal Oil Cooler 1
+Oil plant;Booster pump A;11-HB-9117A;Seal Oil Cooler 2
+Oil plant;Booster pump B;11-PA-9101B;Oil Booster B
+Oil plant;Booster pump B;11-PA-9152B;Seal Oil Pump 1
+Oil plant;Booster pump B;11-PA-9153B;Seal Oil Pump 2
+Oil plant;Booster pump B;11-HB-9116B;Seal Oil Cooler 1
+Oil plant;Booster pump B;11-HB-9117B;Seal Oil Cooler 2
+Oil plant;Heat Exchangers;11-HA-9101A;Inlet heater
+Oil plant;Heat Exchangers;11-HA-9101B;Inlet heater
+Oil plant;Heat Exchangers;11-HA-9102;Interstage heater
+Oil plant;Pig launcher/receiver;11-VM-9101;Flanks receiver
+Oil plant;Pig launcher/receiver;14-VM-9103;Ekofisk pig launcher
+Oil plant;Pig launcher/receiver;11-VM-9103;VFW pig receiver
+Oil plant;Sales Oil Metering;17-AE-95742A;Daily sampler 
+Oil plant;Sales Oil Metering;17-AE-95742B;Daily sampler 
+Oil plant;Sales Oil Metering;17-AE-95741A;Monthly Sampler
+Oil plant;Sales Oil Metering;17-AE-95741B;Monthly sampler
+Oil plant;Sales Oil Metering;17-PA-9144A;Export oil metering sampler pump
+Oil plant;Sales Oil Metering;17-PA-9144B;Export oil metering sampler pump
+Oil plant;Sales Oil Metering (promix);17-PF-9106;Daily sample mixing pump
+Oil plant;Sales Oil Metering (promix);17-PF-9107;Monthly sample mixing pump
+Oil plant;Sales Oil Metering (promix);17-AX-95741A;Daily sample sylinderA
+Oil plant;Sales Oil Metering (promix);17-AX-95741B;Daily sample sylinderB
+Oil plant;Sales Oil Metering (promix);17-AX-95742A;Monthly sample sylinderA
+Oil plant;Sales Oil Metering (promix);17-AX-95742B;Monthly sample sylinderB
+Water Injection;W. Inj. Pumps;18-PA-8010;W. Inj. Pump
+Water Injection;W. Inj. Pumps;18-PA-8030;W. Inj. Pump
+Water Injection;W. Inj. Pumps;18-PA-8050;W. Inj. Pump
+Water Injection;W. Inj. Pumps;18-PA-8070;W. Inj. Pump
+Water Injection;Minox/Seawater;84-XX-8030;Minox dearation plant
+Water Injection;Minox/Seawater;84-CA-8010;Grovfilter
+Water Injection;Minox/Seawater;84-KF-8030;Minox Blower
+Water Injection;WI chemicals;43-PB-9117A;Scale Inhibitor
+Water Injection;WI chemicals;43-PB-9117B;Scale Inhibitor
+Water Injection;WI chemicals;43-PB-9108;Oksygen scavenger
+Water Injection;WI chemicals;43-PB-9116A;Antifoam
+Water Injection;WI chemicals;43-PB-9116B;Antifoam
+Water Injection;WI chemicals;43-PB-9109A;Petrocare (nitrat)
+Water Injection;WI chemicals;43-PB-9109B;Petrocare (nitrat)
+Gas Plant;1. stg. Compressor;23-KA-9101;1.stg. Compressor
+Gas Plant;1. stg. Compressor;23-PC-9101;Pri. Lubeoil pump
+Gas Plant;1. stg. Compressor;23-PC-9109;Aux. Lubeoil pump
+Gas Plant;1. stg. Compressor;23-KB-9103;Seal gas booster
+Gas Plant;1. stg. Compressor;23-FE-9121;Seal gas heater
+Gas Plant;1. stg. Compressor;23-GK-9107A;HVAC
+Gas Plant;1. stg. Compressor;23-GK-9107B;HVAC
+Gas Plant;1. stg. Compressor;23-HA-9107A;Lubeoil cooler
+Gas Plant;1. stg. Compressor;23-HA-9107B;Lubeoil cooler
+Gas Plant;1. stg. Compressor;23-CB-9104A;Seal gas filters
+Gas Plant;1. stg. Compressor;23-CB-9104B;Seal gas filters
+Gas Plant;2. stg. Compressor;23-KA-9102;2.stg. Compressor
+Gas Plant;2. stg. Compressor;23-PC-9102;Pri. Lubeoil pump
+Gas Plant;2. stg. Compressor;23-PC-9110;Aux. Lubeoil pump
+Gas Plant;2. stg. Compressor;23-KB-9104;Seal gas booster
+Gas Plant;2. stg. Compressor;23-FE-9122;Seal gas heater
+Gas Plant;2. stg. Compressor;23-GK-9108A;HVAC
+Gas Plant;2. stg. Compressor;23-GK-9108B;HVAC
+Gas Plant;2. stg. Compressor;23-HA-9108A;Lubeoil cooler
+Gas Plant;2. stg. Compressor;23-HA-9108B;Lubeoil cooler
+Gas Plant;2. stg. Compressor;23-CB-9106A;Seal gas filters
+Gas Plant;2. stg. Compressor;23-CB-9106B;Seal gas filters
+Gas Plant;3. stg. Compressor;23-KA-9103;3.stg. Compressor
+Gas Plant;3. stg. Compressor;23-PC-9103;Pri. Lubeoil pump
+Gas Plant;3. stg. Compressor;23-PC-9111;Aux. Lubeoil pump
+Gas Plant;3. stg. Compressor;23-KB-9105 ;Seal gas booster
+Gas Plant;3. stg. Compressor;23-FE-9123;Seal gas heater
+Gas Plant;3. stg. Compressor;23-GK-9109A;HVAC
+Gas Plant;3. stg. Compressor;23-GK-9109B;HVAC
+Gas Plant;3. stg. Compressor;23-HA-9109A;Lubeoil cooler
+Gas Plant;3. stg. Compressor;23-HA-9109B;Lubeoil cooler
+Gas Plant;3. stg. Compressor;23-CB-9108A;Seal gas filters
+Gas Plant;3. stg. Compressor;23-CB-9108B;Seal gas filters
+Gas Plant;4. stg. Compressor;27-KA-9104;4.stg. Compressor
+Gas Plant;4. stg. Compressor;27-PC-9104;Pri. Lubeoil pump
+Gas Plant;4. stg. Compressor;27-PC-9112;Aux. Lubeoil pump
+Gas Plant;4. stg. Compressor;27-KB-9106;Seal gas booster
+Gas Plant;4. stg. Compressor;27-FE-9125;Seal gas heater
+Gas Plant;4. stg. Compressor;27-GK-9110A;HVAC
+Gas Plant;4. stg. Compressor;27-GK-9110B;HVAC
+Gas Plant;4. stg. Compressor;27-HA-9110A;Lubeoil cooler
+Gas Plant;4. stg. Compressor;27-HA-9110B;Lubeoil cooler
+Gas Plant;4. stg. Compressor;27-CB-9110A;Seal gas filters
+Gas Plant;4. stg. Compressor;27-CB-9110B;Seal gas filters
+Gas Plant;4. stg. Compressor;27-AT-93008A;Duggpunkts analysator, 4. trinn
+Gas Plant;4. stg. Compressor;27-FV-92943;4th Stage Anti Surge Valve
+Gas Plant;Vessels and HX's;23-CQ-9101;2nd stg. Gas ejector
+Gas Plant;Vessels and HX's;23-HA-9103;1.stg. Suction cooler
+Gas Plant;Vessels and HX's;23-VG-9101;1.stg. Suction scrubber
+Gas Plant;Vessels and HX's;23-HA-9114;1.stg. Disch. Cooler
+Gas Plant;Vessels and HX's;23-HA-9115;1.stg. Disch. Cooler
+Gas Plant;Vessels and HX's;23-VG-9102;2.nd stg. Suction scrubber
+Gas Plant;Vessels and HX's;23-HX-9103A;2.nd stg. Disch. Cooler
+Gas Plant;Vessels and HX's;23-HX-9103B;2.nd stg. Disch. Cooler
+Gas Plant;Vessels and HX's;23-HX-9103C;2.nd stg. Disch. Cooler
+Gas Plant;Vessels and HX's;23-HX-9103D;2.nd stg. Disch. Cooler
+Gas Plant;Vessels and HX's;23-HX-9114;Gas dehydration, pre cooler
+Gas Plant;Vessels and HX's;23-VG-9103;3.rd stg. Suction scrubber
+Gas Plant;Vessels and HX's;24-HX-9104;3 stg. Discharge cooler
+Gas Plant;Vessels and HX's;25-HX-9105A;GAS-GAS INTERCHANGER A
+Gas Plant;Vessels and HX's;25-HX-9105B;GAS-GAS INTERCHANGER B
+Gas Plant;Vessels and HX's;25-VA-9106;Cold seperator
+Gas Plant;Vessels and HX's;25-PV-92921A;Joule Thompson (normal trim)
+Gas Plant;Vessels and HX's;25-PV-92921B;Joule Thompson (mindre trim)
+Gas Plant;Vessels and HX's;27-HX-9107;4.th stg. Disch cooler
+Gas Plant;TEG system;24-VG-9106;Teg kontaktor inlet scrubber
+Gas Plant;TEG system;24-VE-9101;Teg kontaktor
+Gas Plant;TEG system;32-VD-9108;TEG Flash drum
+Gas Plant;TEG system;32-CB-9101;TEG partikkel filter
+Gas Plant;TEG system;32-VJ-9104;Solvent Coaleshing filter
+Gas Plant;TEG system;32-HA-9117;Solvent vaporizer
+Gas Plant;TEG system;32-HA-9116;TEG/TEG heat exchanger
+Gas Plant;TEG system;32-VE-9103;TEGstill column
+Gas Plant;TEG system;32-VD-9109;TEG Surge drum
+Gas Plant;TEG system;32-HI-9101;Teg reboiler
+Gas Plant;TEG system;32-HE-9103;Solvent/water Condenser
+Gas Plant;TEG system;32-VA-9109;Solvent water seperator
+Gas Plant;TEG system;32-PF-9104A;Water reflux pump A
+Gas Plant;TEG system;32-PF-9104B;Water reflux pump B   
+Gas Plant;TEG system;32-PB-9115A;Teg circulation pump A
+Gas Plant;TEG system;32-PB-9115B;Teg circulation pump B
+Gas Plant;TEG system;32-CQ-9103;TEG still off ejector
+Gas Plant;TEG system;32-PB-9130;TEG PH injection pump
+Gas Plant;TEG system;32-PB-9131;TEG-Antifoam Pump
+Gas Plant;TEG system;46-CB-9137A;TEG instrument AIR distribution filters
+Gas Plant;TEG system;46-CB-9137B;TEG instrument AIR distribution filters
+Gas Plant;TEG system;43-PB-9112;TEG transfer pump
+Condensate Plant;Process equipment;13-VE-9102;NGL stabilizer
+Condensate Plant;Process equipment;13-HI-9102;NGL reboiler
+Condensate Plant;Condensate pumps;13-PA-9103;NGL Pump A
+Condensate Plant;Condensate pumps;13-PA-9146;Seal Oil Pump 1
+Condensate Plant;Condensate pumps;13-PA-9147;Seal Oil Pump 2
+Condensate Plant;Condensate pumps;13-HB-9118;Seal Oil Cooler 1
+Condensate Plant;Condensate pumps;13-HB-9119;Seal Oil Cooler 2
+Condensate Plant;Condensate pumps;13-PA-9137;NGL Pump B
+Condensate Plant;Condensate pumps;13-PA-9156;Seal Oil Pump 1
+Condensate Plant;Condensate pumps;13-PA-9157;Seal Oil Pump 2
+Condensate Plant;Condensate pumps;13-HB-9120;Seal Oil Cooler 1
+Condensate Plant;Condensate pumps;13-HB-9121;Seal Oil Cooler 2
+Produced water plant & SHM;Process equipment;80-VD-8010A;Buffer tank A
+Produced water plant & SHM;Process equipment;80-VD-8010B;Interceptor tank B
+Produced water plant & SHM;Process equipment;80-VD-8010C;Buffer tank C
+Produced water plant & SHM;Process equipment;80-VD-8010D;Interceptor tank D
+Produced water plant & SHM;Process equipment;80-VD-8020;Skimmed oil tank
+Produced water plant & SHM;Process equipment;80-VD-7010A;CFU A
+Produced water plant & SHM;Process equipment;80-VD-7010B;CFU B
+Produced water plant & SHM;Process equipment;80-VD-7011;reject vessel
+Produced water plant & SHM;Process equipment;80-CJ-7020;Injection Mixer
+Produced water plant & SHM;;85-VD-9107;Degasser
+Produced water plant & SHM;;85-VD-9110;Slurryfication vessel  
+Produced water plant & SHM;;85-VD-9112;Slurryfication vessel
+Produced water plant & SHM;Pumps (prod. Water/jet);80-PA-9111A;Produced water pump from 2.nd stage sep (PH)
+Produced water plant & SHM;Pumps (prod. Water/jet);80-PA-9111B;Produced water pump from 2.nd stage sep (PH)
+Produced water plant & SHM;Pumps (prod. Water/jet);80-PA-8120A;Skimmed oil pump A (IP)
+Produced water plant & SHM;Pumps (prod. Water/jet);80-PA-8120B;Skimmed oil pump B (IP) 
+Produced water plant & SHM;Pumps (prod. Water/jet);80-PA-7011A;Reject oil pumps (WP)
+Produced water plant & SHM;Pumps (prod. Water/jet);80-PA-7011B;Reject oil pumps (WP)
+Produced water plant & SHM;Pumps (prod. Water/jet);80-PA-8015A;Prod.water booster pump (IP)
+Produced water plant & SHM;Pumps (prod. Water/jet);80-PA-8015B;Prod.water booster pump (IP)
+Produced water plant & SHM;Pumps (prod. Water/jet);80-PA-8746A;Jet water pump A (IP)
+Produced water plant & SHM;Pumps (prod. Water/jet);80-PA-8746B;Jet water pump B (IP)
+Produced water plant & SHM;Pumps/filters SHM;60-PA-9163;VSD cooler circ. Pump (bytter automatisk, elektro)
+Produced water plant & SHM;Pumps/filters SHM;60-PA-9164;VSD cooler circ. Pump (bytter automatisk, elektro)
+Produced water plant & SHM;Pumps/filters SHM;85-PA-9135A;Solids handling slurry pump
+Produced water plant & SHM;Pumps/filters SHM;85-PA-9135B     ;Solids handling slurry pump
+Produced water plant & SHM;Pumps/filters SHM;85-PA-9118A ;Waste solids circ./ injection booster pump 
+Produced water plant & SHM;Pumps/filters SHM;85-PA-9118B;Waste solids circ./ injection booster pump
+Produced water plant & SHM;Pumps/filters SHM;85-CA-9120A;Back wash strainer
+Produced water plant & SHM;Pumps/filters SHM;85-CA-9120B;Back wash strainer
+Produced water plant & SHM;Pumps/filters SHM;85-PB-9134A;Injection pump, Satt opp for cuttings(??)
+Produced water plant & SHM;Pumps/filters SHM;85-PB-9134B;Injection pump, Satt opp for cuttings(??)
+Produced water plant & SHM;Pumps/filters SHM;85-PA-9134;LP Flare KO slurry return pump (PH)ingen rotasjon
+Produced water plant & SHM;Pumps/filters SHM;85-PA-9133;2.nd stage sep slurry return pump ingen rotasjon
+Produced water plant & SHM;Pumps/filters SHM;85-PA-9162;Solids handling mixing pump ingen rotasjon
+Produced water plant & SHM;Vessels;81-TB-9127;Non-haz open drain tank PH
+Produced water plant & SHM;Vessels;81-TB-9125;Haz open drain tank PH
+Produced water plant & SHM;Vessels;31-VD-9102;HP/LT Flare KO drum (PH)
+Produced water plant & SHM;Vessels;31-VD-9101;LP flare KO/ Closed drain PH
+Produced water plant & SHM;Vessels;T-731;Open drain tank WP
+Produced water plant & SHM;Vessels;81-TB-8010;Haz. Open drain (IP)
+Produced water plant & SHM;Vessels;81-TB-8510;Drilling haz. Open drain tank (IP)
+Produced water plant & SHM;Vessels;81-TB-8020;Non-Haz. Open drain (IP)
+Produced water plant & SHM;Vessels;V-732;Closed drain WP
+Produced water plant & SHM;Vessels;81-V-1170;Closed drain drum DP
+Produced water plant & SHM;Vessels;T-167;Open drain collection tank
+Produced water plant & SHM;Pumps;81-PA-9115A;Non haz. Open drain pumpe A, PH
+Produced water plant & SHM;Pumps;81-PA-9115B;Non haz. Open drain pumpe B, PH
+Produced water plant & SHM;Pumps;81-PA-9113A;Haz. Open drain pumpe A, PH
+Produced water plant & SHM;Pumps;81-PA-9113B;Haz. Open drain pumpe B, PH
+Produced water plant & SHM;Pumps;81-PA-8011A;Haz open drain IP
+Produced water plant & SHM;Pumps;81-PA-8011B;Haz open drainIP
+Produced water plant & SHM;Pumps;81-PA-8510A;Drilling Haz open drain pumpe IP,A Ingen rotasjon  
+Produced water plant & SHM;Pumps;81-PA-8510B;Drilling Haz open drain pumpe IP,B   ingen rotasjon 
+Produced water plant & SHM;Pumps;P-733;Closed drain pump WP ingen rotasjon
+Produced water plant & SHM;Pumps;81-PA-8012A;Non Haz open drain pump  IP,A
+Produced water plant & SHM;Pumps;81-PA-8012B;Non Haz open drain pump IP,B
+Produced water plant & SHM;Pumps;31-PA-9104A;HP/LT Flare return pumpeA, PH
+Produced water plant & SHM;Pumps;31-PA-9104B;HP/LT Flare return pumpeB, PH
+Produced water plant & SHM;Pumps;31-PA-9124A;LP flare ko return pumpA, PH
+Produced water plant & SHM;Pumps;31-PA-9124B;LP flare ko return pumpB, PH
+Produced water plant & SHM;Pumps;P-731;Open drain WP ingen rotasjon
+Essential utilities;Air Compressors/Dryers;46-XV-8010A;Luft-kompressor A
+Essential utilities;Air Compressors/Dryers;46-XV-8010B;Luft-kompressor B
+Essential utilities;Air Compressors/Dryers;46-XV-8010C;Luft-kompressor C
+Essential utilities;Air Compressors/Dryers;46-XV-8010D;Luft-kompressor D
+Essential utilities;Air Compressors/Dryers;46-XV-8020;Lufttørke
+Essential utilities;Generatorer/trafoer;60-EG-9102;Em.gen.A PH
+Essential utilities;Generatorer/trafoer;60-EG-9103;Em.gen.B PH
+Essential utilities;Generatorer/trafoer;60-XN-8020;Em.Gen. IP
+Essential utilities;PFS;45-PA-9653A;Reactor pumpeA
+Essential utilities;PFS;45-PA-9653B;Reactor pumpeB
+Essential utilities;PFS;45-PA-9651A;IGBT pumpeA
+Essential utilities;PFS;45-PA-9651B;IGBT pumpeB
+Essential utilities;PFS;45-HB-9651;Heat exchanger
+Essential utilities;PFS;45-HB-9652;Heat exchanger
+Essential utilities;PFS;45-HB-9653;Heat exchanger
+Essential utilities;PFS;62-HB-9501;Transformer heat exchanger
+Essential utilities;Clorine package IP;84-XX-8022;ELECTRO CHLORINATION SKID 1
+Essential utilities;Clorine package IP;84-XX-8023;ELECTRO CHLORINATION SKID 2
+Essential utilities;Clorine package IP;84-KF-8022A;BLOWER 'A' For Skid 1
+Essential utilities;Clorine package IP;84-KF-8022B;BLOWER 'B' For Skid 1
+Essential utilities;Clorine package IP;84-KF-8023A;BLOWER 'A' For Skid 2
+Essential utilities;Clorine package IP;84-KF-8023B;BLOWER 'B' For Skid 2
+Essential utilities;Firewater and deluge;48-XD-8001;IP A
+Essential utilities;Firewater and deluge;48-XD-8002;IP B
+Essential utilities;Firewater and deluge;48-XD-9101A;PH A
+Essential utilities;Firewater and deluge;48-XD-9101B;PH B
+Essential utilities;Firewater and deluge;48-XX-8550;Puls kompensator IP
+Essential utilities;Firewater and deluge;48-SU-8000;Deluge IP (lower)
+Essential utilities;Firewater and deluge;48-SU-8500;Deluge IP (upper)
+Essential utilities;Firewater and deluge;48-SU-7001;Deluge ESDV module WP
+Essential utilities;Firewater and deluge;48-SU-9101A;Main deluge PH
+Essential utilities;Firewater and deluge;48-SU-9101B;Main deluge PH
+Essential utilities;Firewater and deluge;48-SU-9117;Deluge skid LQ
+Essential utilities;Firewater and deluge;48-SU-1001;DP deluge EAST skid
+Essential utilities;Firewater and deluge;48-SU-1002;DP deluge West skid
+Essential utilities;Firewater and deluge;X-781;Deluge WP (lower)
+Essential utilities;Firewater and deluge;X-776;Deluge WP (toppdeck)
+Essential utilities;Seawater;84-PX-9102A;PH,HP A
+Essential utilities;Seawater;84-PX-9102B;PH,HP B
+Essential utilities;Seawater;84-PX-9101A;PH,LP A
+Essential utilities;Seawater;84-PX-9101B;PH,LP B
+Essential utilities;Seawater;84-PS-8000A;IP, A
+Essential utilities;Seawater;84-PS-8000B;IP,B
+Essential utilities;Seawater;84-PS-8000C;IP,C
+Essential utilities;Seawater;84-CA-9119;LP seawater coarse filter
+Essential utilities;Seawater;84-CA-9129;HP seawater coarse filter
+Essential utilities;Cooling medium;45-CA-9111;Cooling medium side stream filter
+Essential utilities;Cooling medium;45-VL-9101;CM expansion tank
+Essential utilities;Cooling medium;45-PA-9106A;Cooling medium Pump A
+Essential utilities;Cooling medium;45-PA-9106B;Cooling medium Pump B
+Essential utilities;Cooling medium;45-HB-9101A;CM seawater Cooler A
+Essential utilities;Cooling medium;45-HB-9101B;CM seawater Cooler B
+Essential utilities;Chemical Injection;43-PF-8002;Biocide (IP)
+Essential utilities;Chemical Injection;43-PB-9106A;Production scale
+Essential utilities;Chemical Injection;43-PB-9106B;Production scale
+Essential utilities;Chemical Injection;43-PB-9105A;Flocculant
+Essential utilities;Chemical Injection;43-PB-9105B;Flocculant
+Essential utilities;Chemical Injection;43-PB-9104;Biocide injection
+Essential utilities;Chemical Injection;43-PB-9103; antifoam (lav kapasitet)
+Essential utilities;Chemical Injection;43-PB-9129;Process antifoam (høy kapasitet)
+Essential utilities;Chemical Injection;43-PB-9107;Voks hemmer
+Essential utilities;Chemical Injection;43-PB-9102A;Emmulsjonsbryter
+Essential utilities;Chemical Injection;43-PB-9102B;Emmulsjonsbryter
+Essential utilities;Chemical Injection;43-PB-9119;Korrosjonshemmer
+Essential utilities;Chemical Injection;43-PB-9111A;HP Metanol pump ingen rotasjon
+Essential utilities;Chemical Injection;43-PB-9111B;HP metanol pumpe
+Essential utilities;Chemical Injection;43-XQ-8000;IP Kjemikalie-    distribusjons panel
+Essential utilities;Chemical Injection;43-PB-9124;LP Metanolpumpe
+Essential utilities;Hydraulic power;61-CT-9101;Valve HPU package
+Essential utilities;Hydraulic power;61-CT-8000;IP
+Essential utilities;Hydraulic power;X-735;WP
+Essential utilities;Hydraulic power;X-780;WP
+Essential utilities;HVAC LQ;65-GK-9701A;LQ Main Supply Fan A
+Essential utilities;HVAC LQ;65-GK-9701B;LQ Main Supply Fan B
+Essential utilities;HVAC LQ;65-GK-9702A;LQ Main Extract Fan A
+Essential utilities;HVAC LQ;65-GK-9702B;LQ Main Extract Fan B
+Essential utilities;HVAC LQ;65-GK-9703A;LQ Galley Extract Fan A
+Essential utilities;HVAC LQ;65-GK-9703B;LQ Galley Extract Fan B
+Essential utilities;HVAC LQ;65-GK-9704A;LQ, L1 Batt RM Extract Fan A
+Essential utilities;HVAC LQ;65-GK-9704B;LQ, L1 Batt RM Extract Fan B
+Essential utilities;HVAC LQ;65-GK-9707A;LQ, L8 Batt RM Extract Fan A
+Essential utilities;HVAC LQ;65-GK-9707B;LQ, L8 Batt RM Extract Fan B
+Essential utilities;HVAC LQ;65-GK-9708A;LQ Heli Hangar Supply Fan A
+Essential utilities;HVAC LQ;65-GK-9708B;LQ Heli Hangar Supply Fan B
+Essential utilities;HVAC LQ;65-GK-9712A;LQ CER, Coil unit A, Fan A
+Essential utilities;HVAC LQ;65-GK-9712B;LQ CER, Coil unit B, Fan B
+Essential utilities;HVAC LQ;65-GK-9713AA;LQ SWB RM, Coil unit A, Fan AA
+Essential utilities;HVAC LQ;65-GK-9713AB;LQ SWB RM, Coil unit A, Fan AB
+Essential utilities;HVAC LQ;65-GK-9713BA;LQ SWB RM, Coil unit B, Fan BA
+Essential utilities;HVAC LQ;65-GK-9713BB;LQ SWB RM, Coil unit B, Fan BB
+Essential utilities;HVAC LQ;65-GK-9714A;LQ Data RM, Coil A, Fan A
+Essential utilities;HVAC LQ;65-GK-9714B;LQ Data RM, Coil B, Fan B
+Essential utilities;HVAC LQ;65-GK-9715A;LQ Telecom RM, Coil A, Fan A
+Essential utilities;HVAC LQ;65-GK-9715B;LQ Telecom RM, Coil B, Fan B
+Essential utilities;HVAC PFS;65-GK-9557A;PFS Utility Supply Fan A
+Essential utilities;HVAC PFS;65-GK-9557B;PFS Utility Supply Fan B
+Essential utilities;HVAC PFS;65-GK-9564A;PFS AC/DC Supply Fan A
+Essential utilities;HVAC PFS;65-GK-9564B;PFS AC/DC Supply Fan B
+Essential utilities;HVAC PFS;65-KC-9641A;PFS Chiller Comp A
+Essential utilities;HVAC PFS;65-KC-9641B;PFS Chiller Comp B
+Essential utilities;HVAC PFS;65-PA-9641CA;PFS, Chilled Water pump A
+Essential utilities;HVAC PFS;65-PA-9641CB;PFS, Chilled Water pump B
+Essential utilities;HVAC HV LER;65-GK-9900A;HV LER Supply Fan A
+Essential utilities;HVAC HV LER;65-GK-9900B;HV LER Supply Fan B
+Essential utilities;HVAC EM LER;65-GK-9901A;EM LER Extract Fan A
+Essential utilities;HVAC EM LER;65-GK-9901B;EM LER Extract Fan B
+Essential utilities;HVAC LER;65-KC-9900A;LER Chiller Comp A
+Essential utilities;HVAC LER;65-KC-9900B;LER Chiller Comp B
+Essential utilities;HVAC LER;45-PA-9900CA;LER, Chilled Water pump A
+Essential utilities;HVAC LER;45-PA-9900CB;LER, Chilled Water pump B
+Essential utilities;Potable water system;47-XX-9800A;EVA A
+Essential utilities;Potable water system;47-XX-9800B;EVA B
+Essential utilities;Potable water system;47-XQ-9802;Reklor unit
+Essential utilities;Potable water system;47-XR-9803;CO2 injection
+Essential utilities;Potable water system;47-TB-9807A;Potable water tank
+Essential utilities;Potable water system;47-TB-9807B;Potable water tank
+Essential utilities;Potable water system;47-TB-9807C;Potable water tank
+Essential utilities;Potable water system;47-PA-9810A;Pot. Water pump A
+Essential utilities;Potable water system;47-PA-9810B;Pot. Water pump B
+Essential utilities;Potable water system;47-PA-9815;Pot. Water recirc.
+Essential utilities;Potable water system;47-CX-9812A;UV sterilizer
+Essential utilities;Potable water system;47-CX-9812B;UV sterilizer
+Essential utilities;Potable water system;47-CB-9811A;Partikkel filter
+Essential utilities;Potable water system;47-CB-9811B;Partikkel filter
+Essential utilities;Potable water system;47-CA-9806;recirc- alkaliseringsfiter
+Essential utilities;Potable water system;47-XR-9804 ;CO2 recir. Injeksjon
+Essential utilities;Potable water system;47-XQ-9807;Recic. Reklorering
+Essential utilities;Potable water system;47-PA-9814A;Hot pot. Water circulation
+Essential utilities;Potable water system;47-PA-9814B;Hot pot. Water circulation
+Essential utilities;Potable water system;47-PA-9107A;Utility Fresh Water Pump
+Essential utilities;Potable water system;47-PA-9107B;Utility Fresh Water Pump
+Essential utilities;Potable water system;47-XX-9183;HPHT washer
+Essential utilities;Potable water system;47-PA-9108A;Drillwater transfer pump
+Essential utilities;Potable water system;47-PA-9108B;Drillwater transfer pump
+Essential utilities;Potable water system;47-PF-9808A;Anticale til EVA A
+Essential utilities;Potable water system;47-PF-9808B;Anticale til EVA B
+Essential utilities;Nitrogen;16-XY-8010;IP N2-Generator
+Essential utilities;Nitrogen;16-XY-9101;PH N2-Generator
+Essential utilities;Diesel;40-CB-9125A;PH Dieselfilter
+Essential utilities;Diesel;40-CB-9125B;PH Dieselfilter
+Essential utilities;Diesel;40-PA-9105A;PH Dieselpump
+Essential utilities;Diesel;40-PA-9105B;PH diselpump
+Lista;Lista;45-PA-13651A;IGBT cooling pump
+Lista;Lista;45-PA-13651B;IGBT cooling pump
+Lista;Lista;45-PA-13652A;Reactor cooling pump
+Lista;Lista;45-PA-13652B;Reactor cooling pump
+Lista;Lista;65-GM-13502-FF2:1;Extract vifte A AC/DC hall
+Lista;Lista;65-GM-13502-FF2:2;Extract vifte B AC/DC hall
+NUIs;VFN Prosess;14-LE-12001;Pig Launcher
+NUIs;VFN Prosess;11-VA-12001;Test seperator
+NUIs;VFN Prosess;07-PB-12002;Waste Injection Pump
+NUIs;VFN Prosess;31-VD-12001;Closed Drain
+NUIs;VFN Utility;43-PB-12001;Biocide pump
+NUIs;VFN Utility;43-PB-12002;Scale pump
+NUIs;VFN Utility;43-PB-12003;Oxy scav pump
+NUIs;VFN Utility;43-PB-12004;Scale pump
+NUIs;VFN Utility;43-PB-12006;Scale pump(DH)
+NUIs;VFN Utility;61-CT-12001;WHCP
+NUIs;VFN Safety;47-PV-120001;Sjøvannsdumpe-ventil
+NUIs;VFN Safety;47-PS-12001;Seawaterlift pump
+NUIs;VFN Safety;90-MA-12001;Pidestalkran
+NUIs;VFN Safety;48-SU-12001;Deluge Skid
+NUIs;VFN Safety;48-SM-12002;DIFFS (POP-UP)
+NUIs;VFN Safety;75-SA-12001;Lifeboat
+NUIs;VFN Safety;75-SA-12004;MOB Boat
+NUIs;VFS Prosess;14-LE-11001;Pig Launcher
+NUIs;VFS Prosess;11-VA-11001;Test seperator
+NUIs;VFS Prosess;07-PB-11002;Waste Injection Pump
+NUIs;VFS Prosess;31-VD-11001;Closed Drain
+NUIs;VFS Utility;43-PB-11001;Biocide pump
+NUIs;VFS Utility;43-PB-11002;Scale pump
+NUIs;VFS Utility;43-PB-11003;Oxy scav pump
+NUIs;VFS Utility;61-CT-11001;WHCP
+NUIs;VFS Safety;47-PV-110001;Sjøvannsdumpe-ventil
+NUIs;VFS Safety;47-PS-11001;Seawaterlift pump
+NUIs;VFS Safety;90-MA-11001;Pidestalkran
+NUIs;VFS Safety;48-SU-11001;Deluge Skid
+NUIs;VFS Safety;48-SM-11002;DIFFS (POP-UP)
+NUIs;VFS Safety;75-SA-11001;Lifeboat
+NUIs;VFS Safety;75-SA-11004;MOB Boat
+NUIs;VFW Prosess;14-LE-17001;Pig Launcher
+NUIs;VFW Prosess;11-FIT-170031;Multifasemeter
+NUIs;VFW Prosess;31-VD-17001;Closed Drain 
+NUIs;VFW/HOD-B Utility;43-XR-9101;Chemical Injection skid (PH)
+NUIs;VFW/HOD-B Utility;43-XR-9102;Chemical Injection skid (PH)
+NUIs;VFW/HOD-B Utility;43-XR-9104;Chemical Injection skid (PH)
+NUIs;VFW/HOD-B Utility;43-XR-9106;Chemical Injection skid (PH)
+NUIs;VFW/HOD-B Utility;43-XR-9107;Chemical Injection skid (PH)
+NUIs;VFW/HOD-B Utility;43-XR-9108;Chemical Injection skid (PH)
+NUIs;VFW/HOD-B Utility;43-XR-9109;Chemical Injection skid (PH)
+NUIs;VFW/HOD-B Utility;43-XR-9110;Chemical Injection skid (PH)
+NUIs;VFW/HOD-B Utility;43-XR-9112;Chemical Injection skid (PH)
+NUIs;VFW/HOD-B Utility;43-XR-9113;Chemical Injection skid (PH)
+NUIs;VFW/HOD-B Utility;43-XR-9114;Chemical Injection skid (PH)
+NUIs;VFW Utility;61-CT-17666;WHCP
+NUIs;VFW Safety;47-PCV-171791;Sjøvanns Min flow ventil
+NUIs;VFW Safety;47-PS-17001;Seawaterlift pump
+NUIs;VFW Safety;90-MA-17001;Pidestalkran
+NUIs;VFW Safety;48-SU-17001;Deluge Skid
+NUIs;VFW Safety;48-SU-17002;DIFFS (POP-UP)
+NUIs;VFW Safety;75-SA-17001;Lifeboat
+NUIs;VFW Safety;75-SB-17001;MOB Boat
+NUIs;HOD-B Prosess;14-LE-18001;Pig Launcher
+NUIs;HOD-B Prosess;11-FIT-180031;Multifasemeter
+NUIs;HOD-B Prosess;31-VD-18001;Closed Drain 
+NUIs;HOD-B Utility;61-CT-18666;WHCP
+NUIs;HOD-B Safety;47-PCV-181791;Sjøvanns Min flow ventil
+NUIs;HOD-B Safety;47-PS-18001;Seawaterlift pump
+NUIs;HOD-B Safety;90-MA-18001;Pidestalkran
+NUIs;HOD-B Safety;48-SU-18001;Deluge Skid
+NUIs;HOD-B Safety;48-SU-18002;DIFFS (POP-UP)
+NUIs;HOD-B Safety;75-SA-18001;Lifeboat
+NUIs;HOD-B Safety;75-SB-18001;MOB Boat
+NUIs;HOD-A;G-551;Generator
+NUIs;HOD-A;G-552;Generator
+NUIs;HOD-A;G-553;Nød-Generator
+NUIs;HOD-A;P-561;SeaWaterlift Pump
+NUIs;HOD-A;CR-575;Pedestal Kran
+NUIs;HOD-A;X-590;Lifeboat
+NUIs;HOD-A;X-593;MOB Boat
+NUIs;HOD-A;P-551A;Diesel Transferpumpe
+NUIs;HOD-A;P-551B;Diesel Transferpumpe
+NUIs;TAM Safety;P-02101;SeaWaterlift Pump
+NUIs;TAM Safety;CR-19101;Pedestal Kran
+NUIs;TAM Safety;SC-21101;Lifeboat
+NUIs;TAM Safety;DV-05103;Deluge
+Reguleringsventiler;1. trinns scrubber;23-LV-92521A;Reguleringsventil
+Reguleringsventiler;1. trinns scrubber;23-LV-92521B;Reguleringsventil
+Reguleringsventiler;2. trinns scrubber;23-LV-92621A;Reguleringsventil
+Reguleringsventiler;2. trinns scrubber;23-LV-92621B;Reguleringsventil
+Reguleringsventiler;TEG Inlet scrubber;24-LV-92821A;Reguleringsventil
+Reguleringsventiler;TEG Inlet scrubber;24-LV-92821B;Reguleringsventil
+Reguleringsventiler;TEG contaktor;24-LV-92831A;Reguleringsventil
+Reguleringsventiler;TEG contaktor;24-LV-92831B;Reguleringsventil
+Reguleringsventiler;3. trinns scrubber;23-LV-92721A;Reguleringsventil
+Reguleringsventiler;3. trinns scrubber;23-LV-92721B;Reguleringsventil

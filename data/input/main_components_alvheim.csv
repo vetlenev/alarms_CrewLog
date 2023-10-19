@@ -1,0 +1,234 @@
+﻿AREA;EQUIPMENT GROUP;TAG;DESCRIPTION
+Oil Plant;Separators;20VA101;Alv.Inlet Sep
+Oil Plant;Separators;20VA201;3rd part Sep
+Oil Plant;Separators;20VA002;2nd stage Sep
+Oil Plant;Separators;20VJ001;Compact Elec. Coalesher
+Oil Plant;Separators;20VA003;OIW separator
+Oil Plant;Pumps;21PA001A;Crude oil pump to cargo
+Oil Plant;Pumps;21PA001B;Crude oil pump to cargo
+Oil Plant;Pumps;512.21A-1;Cargo oil pump 
+Oil Plant;Pumps;512.21A-2;Cargo oil pump 
+Oil Plant;Pumps;512.21A-3;Cargo oil pump 
+Oil Plant;Pumps;512.21A-4;Cargo oil pump 
+Oil Plant;Pumps;512.21C-1;Cargo pump vaccum unit
+Oil Plant;Pumps;512.21C-2;Cargo pump vaccum unit
+Oil Plant;Pumps;513.22A-1;Cargo Stripping pump
+Oil Plant;Pumps;513.22A-2;Cargo Stripping pump
+Oil Plant;Heat Exchangers;20HA102;Alvheim Crudeoil Heater
+Oil Plant;Heat Exchangers;20HA202;3rd party Crudeoil Heater
+Oil Plant;Heat Exchangers;21HB001A;Crude oil Cooler to cargo
+Oil Plant;Heat Exchangers;21HB001B;Crude oil Cooler to cargo
+Oil Plant;Metering;20IX104;Alvheim sep crudeoil meter
+Oil Plant;Metering;20IX105;Alvheim sep crudeoil meter
+Oil Plant;Metering;20IX204;3rd party sep crudeoil meter
+Oil Plant;Metering;20IX205;3rd party sep crudeoil meter
+Oil Plant;Metering;21IX101;Oil meter to cargo
+Oil Plant;Metering;21IH001;Oil meter to offshore loading
+Produced Water Treatment Plant;Separators;44VD001;Produced water degassing drum
+Produced Water Treatment Plant;Pumps;44PA002A;Coalesher Produced water pump
+Produced Water Treatment Plant;Pumps;44PA002B;Coalesher Produced water pump
+Produced Water Treatment Plant;Pumps;44PA001A;2nd stg. Sep prod water pump
+Produced Water Treatment Plant;Pumps;44PA001B;2nd stg. Sep prod water pump
+Produced Water Treatment Plant;Pumps;29PA001A;Water Injection BOOSTER pump
+Produced Water Treatment Plant;Pumps;29PA001B;Water Injection BOOSTER pump
+Produced Water Treatment Plant;Pumps;29PA002A;Water Injection pump
+Produced Water Treatment Plant;Pumps;29PA002B;Water Injection pump
+Produced Water Treatment Plant;Cylones and cooler;29HB001;Water injection cooler
+Produced Water Treatment Plant;Cylones and cooler;44CE001;Alvheim sep Cyclone
+Produced Water Treatment Plant;Cylones and cooler;44CE002;Alv/3rd party sep Cyclone
+Produced Water Treatment Plant;Cylones and cooler;44CE003;3rd party sep Cyclone
+Produced Water Treatment Plant;Cylones and cooler;44CE004;2nd stg+ coalesher Cyclone
+Produced Water Treatment Plant;Cylones and cooler;44CE005;2nd stg+ coalesher Cyclone
+Produced Water Treatment Plant;Metering;20IX103;Alvheim sep water meter
+Produced Water Treatment Plant;Metering;20IX203;3rd party sep water meter
+Produced Water Treatment Plant;Metering;20IX300;2nd stg sep water meter
+Gas Plant;Compressors;43KF001;Blower 1 stg
+Gas Plant;Compressors;43KF002;Blower 2nd stg
+Gas Plant;Compressors;23KA101;1st stg Recompressor
+Gas Plant;Compressors;23KA201;1st stg Recompressor
+Gas Plant;Compressors;23KA102;2nd stg Recompressor
+Gas Plant;Compressors;23KA202;2nd stg Recompressor
+Gas Plant;Compressors;27KA101;1st stg Exp. Comp
+Gas Plant;Compressors;27KA201;1st stg Exp. Comp
+Gas Plant;Compressors;27KA102;2nd stg Exp Comp
+Gas Plant;Compressors;27KA202;2nd stg Exp Comp
+Gas Plant;Coolers;43HA001;Interstage Cooler
+Gas Plant;Coolers;23HB101A;1 st stg Recomp Suct Cooler
+Gas Plant;Coolers;23HB101B;1 st stg Recomp Suct Cooler
+Gas Plant;Coolers;23HB201A;1 st stg Recomp Suct Cooler
+Gas Plant;Coolers;23HB201B;1 st stg Recomp Suct Cooler
+Gas Plant;Coolers;23HB102;2nd stg Recomp Suct Cooler
+Gas Plant;Coolers;23HB202;2nd stg Recomp Suct Cooler
+Gas Plant;Coolers;27HA101;1st stg exp comp suct. Cooler
+Gas Plant;Coolers;27HA201;1st stg exp comp suct. Cooler
+Gas Plant;Coolers;24HA001A;Dehydration Inlet Cooler
+Gas Plant;Coolers;24HA001B;Dehydration Inlet Cooler
+Gas Plant;Coolers;27HA102;2nd stg Exp. Comp Suction Cooler
+Gas Plant;Coolers;27HA202;2nd stg Exp. Comp Suction Cooler
+Gas Plant;Coolers;27HA003;Gas Exp Cooler
+Gas Plant;Scrubbers;43VD002;VOC Knock out Drum
+Gas Plant;Scrubbers;23VG101;1 st stg Recomp suct Scrubber
+Gas Plant;Scrubbers;23VG201;1 st stg Recomp suct Scrubber
+Gas Plant;Scrubbers;23VG102;2nd stg Recomp Suct Scrubber
+Gas Plant;Scrubbers;23VG202;2nd stg Recomp Suct Scrubber
+Gas Plant;Scrubbers;27VG101;1st stage Exp comp suction Scrubber
+Gas Plant;Scrubbers;27VG201;1st stage Exp comp suction Scrubber
+Gas Plant;Scrubbers;24VG001;Dehydration Inlet Scrubber
+Gas Plant;Scrubbers;27VG102;2nd stg exp comp suction scrubber
+Gas Plant;Scrubbers;27VG202;2nd stg exp comp suction scrubber
+Gas Plant;Scrubber Pumps;23PA101A;1st stg Recompressor Scrubber pump
+Gas Plant;Scrubber Pumps;23PA101B;1st stg Recompressor Scrubber pump
+Gas Plant;Scrubber Pumps;23PA201A;1st stg Recompressor Scrubber pump
+Gas Plant;Scrubber Pumps;23PA201B;1st stg Recompressor Scrubber pump
+Gas Plant;Glycol;24HE002;Glycol Reflux condenser
+Gas Plant;Glycol;24VE006;Glycol Still column
+Gas Plant;Glycol;24FE001A;Glycol Reboiler Heater
+Gas Plant;Glycol;24FE001B;Glycol Reboiler Heater
+Gas Plant;Glycol;24VD004;Glycol Reboiler
+Gas Plant;Glycol;24VD005;Glycol Surge Drum
+Gas Plant;Glycol;24HB003;Glycol/Glycol Exchanger
+Gas Plant;Glycol;24HB004;Lean Glycol Exchanger
+Gas Plant;Glycol;24CB002;Glycol Carbon Filter
+Gas Plant;Glycol;24CB001A;Glycol Particulate Filter
+Gas Plant;Glycol;24CB001B;Glycol Particulate Filter
+Gas Plant;Glycol;24VD003;Glycol Flash Drum
+Gas Plant;Glycol;24PB001A;Glycol Circulation Pump
+Gas Plant;Glycol;24PB001B;Glycol Circulation Pump
+Gas Plant;Glycol;24VD008;Overheads Knock drum
+Gas Plant;Glycol;24HB005;Overheads Condenser
+Gas Plant;Glycol;24VB001;Glycol Contactor
+Gas Plant;Glycol;24VE007;Glycol strippe column
+Gas Plant;Flare and VOC;43VD001;Flare Knock Out Drum
+Gas Plant;Flare and VOC;43FE001;Flare knock out Drum heater
+Gas Plant;Flare and VOC;43XX002;Flare ignition Cabinet
+Gas Plant;Flare and VOC;43II001;Flare Gas Metering Assembly
+Essential Utilities;Open & Closed drain;56TB001;Haz open Drain tank
+Essential Utilities;Open & Closed drain;56PC001A;Haz open drain pump 
+Essential Utilities;Open & Closed drain;56PC001B;Haz open drain pump 
+Essential Utilities;Open & Closed drain;56TB002;Non-Haz open Drain tank
+Essential Utilities;Open & Closed drain;56PC002A;Non-Haz open drain pump 
+Essential Utilities;Open & Closed drain;56PC002B;Non-Haz open drain pump 
+Essential Utilities;Open & Closed drain;56XX001;Centrifuge skid open drain
+Essential Utilities;Open & Closed drain;56XX002;Water Pressure boosting skid
+Essential Utilities;Open & Closed drain;57VD001 ;Closed drain Tank
+Essential Utilities;Open & Closed drain;57PA001A;Closed drain pump
+Essential Utilities;Open & Closed drain;57PA001B;Closed drain pump
+Essential Utilities;Seawaterlift and treatment (MGPS);50PS001A;Seawater lift pump
+Essential Utilities;Seawaterlift and treatment (MGPS);50PS001B;Seawater lift pump
+Essential Utilities;Seawaterlift and treatment (MGPS);50XX001;Seawater Coarse Filter package
+Essential Utilities;Seawaterlift and treatment (MGPS);664.38-1;Fresh water gen feed pump
+Essential Utilities;Seawaterlift and treatment (MGPS);664.38-2;Fresh water gen feed pump
+Essential Utilities;Seawaterlift and treatment (MGPS);98CZ001;MGPS unit FWD
+Essential Utilities;Seawaterlift and treatment (MGPS);98CZ002;MGPS unit AFT
+Essential Utilities;Seawaterlift and treatment (MGPS);47XX001;Electrochlorination Package (topside)
+Essential Utilities;Generators;80XM101;Main power Gen Set PS
+Essential Utilities;Generators;80XM201;Main power Gen Set SB
+Essential Utilities;Generators;614.MDG101;DG1
+Essential Utilities;Generators;614.MDG102;DG2
+Essential Utilities;Generators;614.MDG103;DG3
+Essential Utilities;Generators;614.MDG104;DG4
+Essential Utilities;Generators;84EG601;Emergency Gen set
+Essential Utilities;Generators;614.15C-1; Harbour generator
+Essential Utilities;Firepumps;71PA601-DD001;Fire watr pump AFT STB- SKID
+Essential Utilities;Firepumps;71EG004 ; Fire water pump AFT PS
+Essential Utilities;Firepumps;71EG600;Fire watr FWD PS
+Essential Utilities;Firepumps;71EG601;Fire watr FWD STB
+Essential Utilities;Active FireFighting;713.24C-1;Deluge system jockey pump
+Essential Utilities;Active FireFighting;71PA750;Deluge system jockey pump
+Essential Utilities;Active FireFighting;713.21-1;Deck wash pump
+Essential Utilities;Active FireFighting;713.21-2;Deck wash pump
+Essential Utilities;Active FireFighting;71XX001;Topside DELUGE skid (TU25, turret, TP30/35)
+Essential Utilities;Active FireFighting;71XX002;Topside DELUGE skid (TP10, TP15/20/25(-AFFF)
+Essential Utilities;Active FireFighting;11696162;Helideck FOAM group
+Essential Utilities;Active FireFighting;71SU600;Deluge skid helifuel
+Essential Utilities;Active FireFighting;74SH6000;INERGEN system
+Essential Utilities;Active FireFighting;74SH6001;INERGEN system
+Essential Utilities;Active FireFighting;11696165;WATERMIST group
+Essential Utilities;Cranes;73MA001;Knuckle boom crane AFT
+Essential Utilities;Cranes;73MA002;Knuckle boom crane FORE
+Essential Utilities;Cranes;73MA003;Sealand Crane
+Essential Utilities;Cranes;73MA004;Dreggen Crane
+Essential Utilities;Potable water system;658.24-1;Freshwater gen PS
+Essential Utilities;Potable water system;658.24-2;Freshwater gen SB
+Essential Utilities;Hydraulic power;65CT001;TOPSIDE Hydralic Power Rack
+Essential Utilities;Hydraulic power;65CT606;Hyd power rack for BUNKERING hosereels
+Essential Utilities;Hydraulic power;65CT900;TURRET ESD hydra power rack
+Essential Utilities;Hydraulic power;313.60A-1;Hyd pow for FWD deck machinery
+Essential Utilities;Hydraulic power;313.60B-1;Hyd pow for AFT deck machinery
+Essential Utilities;Hydraulic power;581.21A-1;Hyd pow for VALVE operation FWD
+Essential Utilities;Hydraulic power;581.21B-1;Hyd pow for VALVE operation AFT
+Essential Utilities;Hydraulic power;672.83A-1;Hyd oil storage AFT
+Essential Utilities;Hydraulic power;672.84A-2;Hyd oil storage FWD
+Essential Utilities;Chemical Injection Pumps;42PF001A;Corrosion Inhibitor pump
+Essential Utilities;Chemical Injection Pumps;42PF001B;Corrosion Inhibitor pump
+Essential Utilities;Chemical Injection Pumps;42PF002A;Scale Inhibitor Pump
+Essential Utilities;Chemical Injection Pumps;42PF002B;Scale Inhibitor Pump
+Essential Utilities;Chemical Injection Pumps;42PF010A;Scale Inhibitor Pump
+Essential Utilities;Chemical Injection Pumps;42PF010B;Scale Inhibitor Pump
+Essential Utilities;Chemical Injection Pumps;42PF005A;Demulsifier Pump
+Essential Utilities;Chemical Injection Pumps;42PF005B;Demulsifier Pump
+Essential Utilities;Chemical Injection Pumps;42PF004A;Demulsifier Pump
+Essential Utilities;Chemical Injection Pumps;42PF004B;Demulsifier Pump
+Essential Utilities;Chemical Injection Pumps;42PF006A;WAX inhibitor Pump
+Essential Utilities;Chemical Injection Pumps;42PF006B;WAX inhibitor Pump
+Essential Utilities;Chemical Injection Pumps;42PF007A;WAX inhibitor Pump
+Essential Utilities;Chemical Injection Pumps;42PF007B;WAX inhibitor Pump
+Essential Utilities;Chemical Injection Pumps;42PF008A;De-oiler Injection Pump
+Essential Utilities;Chemical Injection Pumps;42PF008B;De-oiler Injection Pump
+Essential Utilities;Chemical Injection Pumps;42PF009A;De-oiler Injection Pump
+Essential Utilities;Chemical Injection Pumps;42PF009B;De-oiler Injection Pump
+Essential Utilities;Air, IG & Nitrogen;63KZ101;Air compressor Skid
+Essential Utilities;Air, IG & Nitrogen;63KZ201;Air compressor Skid
+Essential Utilities;Air, IG & Nitrogen;732.23-1;Aux service & CTRL air Screw comp
+Essential Utilities;Air, IG & Nitrogen;732.23-2;Aux service & CTRL air Screw comp
+Essential Utilities;Air, IG & Nitrogen;733.41A-1 ;Air CTRL Dryer
+Essential Utilities;Air, IG & Nitrogen;733.41A-2 ;Air CTRL Dryer
+Essential Utilities;Air, IG & Nitrogen;63XX301;Air dryer unit
+Essential Utilities;Air, IG & Nitrogen;63XX302;Air dryer unit
+Essential Utilities;Air, IG & Nitrogen;11679549;Nitrogen group
+Essential Utilities;Air, IG & Nitrogen;11679550;Inert gas group
+Essential Utilities;Heating Medium;41PA001A;H.M. Circulation Pump
+Essential Utilities;Heating Medium;41PA001B;H.M. Circulation Pump
+Essential Utilities;Heating Medium;41PA001C;H.M. Circulation Pump
+Essential Utilities;Heating Medium;41VL001;Heating Medium Exp. Tank
+Essential Utilities;Heating Medium;41AP001;Sampling station
+Essential Utilities;HVAC;97GK015A;Exhaust Fan Galley
+Essential Utilities;HVAC;97GK016A;Exhaust Fan Laundry
+Essential Utilities;HVAC;97GK750A;Supply Fan STP stairtrunk
+Essential Utilities;HVAC;97GK750B;Supply Fan STP stairtrunk
+Essential Utilities;HVAC;97GX900;HVAC unit STP
+Essential Utilities;HVAC;97GK018A;Lift machinery Exhaust fan
+Essential Utilities;HVAC;97GK751A;Supply fan STP airlocl
+Essential Utilities;HVAC;97GK751B;Supply fan STP airlocl
+Essential Utilities;HVAC;97GK752A;Extract fan STP airlocl
+Essential Utilities;HVAC;97GK752B;Extract fan STP airlocl
+Essential Utilities;HVAC;97GA013A ;HVAC unit for innredning
+Essential Utilities;HVAC;97GA013B;HVAC unit for innredning
+Essential Utilities;Fuel Gas;45VG001;Fuel gas scrubber
+Essential Utilities;Fuel Gas;45FE001;Fuel Gas Super Heater
+Essential Utilities;Fuel Gas;45HA001;Fuel Gas Super Heater
+Essential Utilities;Fuel Gas;45II001;Fuel Gas metering skid
+Essential Utilities;"""Methanol"" Injection (GLYKOL)";46MX101;Methanol Hose Loading station
+Essential Utilities;"""Methanol"" Injection (GLYKOL)";46PF001A;Methanol injection Topside
+Essential Utilities;"""Methanol"" Injection (GLYKOL)";46PF001B;Methanol injection Topside
+Essential Utilities;"""Methanol"" Injection (GLYKOL)";46PF002A;Methanol injection Topside
+Essential Utilities;"""Methanol"" Injection (GLYKOL)";46PF002B;Methanol injection Topside
+Essential Utilities;Bilge and Ballast pumps;682.28A-1;Sludgepumpe 1
+Essential Utilities;Bilge and Ballast pumps;682.28A-2;Sludge pump2
+Essential Utilities;Bilge and Ballast pumps;682.28B-1;Sludge pump
+Essential Utilities;Bilge and Ballast pumps;722.21A-1;FWD bilge and ballast pump PS
+Essential Utilities;Bilge and Ballast pumps;722.21A-2;FWD bilge and ballast pump SB
+Essential Utilities;Bilge and Ballast pumps;722.21B-1;AFT E.R Bilge and ballast pump
+Essential Utilities;Bilge and Ballast pumps;722.21B-2;AFT E.R Bilge and ballast pump
+Essential Utilities;Bilge and Ballast pumps;722.23-1;Air driven pump
+Essential Utilities;Bilge and Ballast pumps;722.23-2;Air driven pump
+Essential Utilities;Bilge and Ballast pumps;722.23-3;Air driven pump
+Essential Utilities;Bilge and Ballast pumps;722.29A-1;Bilge Aux. Pist. Pump (FWD)
+Essential Utilities;Bilge and Ballast pumps;722.29A-2;Bilge Aux. Pist. Pump (FWD)
+Essential Utilities;Bilge and Ballast pumps;722.29B-1;Bilge Aux. Pist. Pump (AFT)
+Essential Utilities;Bilge and Ballast pumps;723.21-1;PUMP ballast PS
+Essential Utilities;Bilge and Ballast pumps;723.21-2;PUMP ballast SB
+Essential Utilities;Bilge and Ballast pumps;723.35-1 ;Ballast ejector
+Essential Utilities;Bilge and Ballast pumps;512.21D-1;Vacuum Unit for Ballast pumps
+Essential Utilities;Thruster;774.10G-1;Azimuth propeller 3
+Essential Utilities;Thruster;774.10G-2;Azimuth propeller 4

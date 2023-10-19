@@ -1,0 +1,72 @@
+﻿AREA;EQUIPMENT GROUP;TAG;DESCRIPTION
+;;20VA0001;Innløpsseparator
+;;20VA0002;Testseparator
+;;20PA0001;Testseparator pumpe
+;;21PA0001A;Olje eksportpumpe A
+;;21PA0001B;Olje eksportpumpe B
+;;27VG0001;Eksportgass scrubber
+;;27KA0001;Eksportgass kompressor
+;;44VA0001A;CFU A (produsertvannsanlegg)
+;;44VA0001B;CFU B (produsertvannsanlegg)
+;;44VD0001;Reject tank
+;;44PG0001A;Reject pumpe A 
+;;44PG0001B;Reject pumpe B
+;;44PA0001A;Produsertvann sirkulasjonspumpe A 
+;;44PA0001B;Produsertvann sirkulasjonspumpe B 
+;;44PA0004;Jettevannspumpe 
+;;29CA0003;Ultrafiltreringspakke 
+;;29CA0004;Ultrafiltreringspakke 
+;;29CA0005;Ultrafiltreringspakke 
+;;29CA0006;Ultrafiltreringspakke 
+;;29CA0007;Ultrafiltreringspakke 
+;;29CA0008;Ultrafiltreringspakke 
+;;29CA0009;Ultrafiltreringspakke 
+;;29CA0010;Ultrafiltreringspakke 
+;;29CA0011;Ultrafiltreringspakke 
+;;29CA0012;Ultrafiltreringspakke 
+;;29CA0013;Ultrafiltreringspakke 
+;;29CA0014;Ultrafiltreringspakke 
+;;29PA0001A;SRU boosterpumpe A 
+;;29PA0001B;SRU boosterpumpe B
+;;29XX0005;SRU membran pakke
+;;29VH0001;Vakum tårn
+;;29PX0001A;Vakum pumpe A
+;;29PX0001B;Vakum pumpe B
+;;29PA0006A;Vakum tårn booster pumpe A 
+;;29PA0006B;Vakum tårn booster pumpe B
+;;29PA0002;Vanninjeksjonspumpe
+;;43VD0001;Fakkeldunk
+;;43TB0001;Subsea depress tank
+;;43KC0001;Fakkelkompressor 
+;;50PS0001A;Sjøvannspumpe A
+;;50PS0001B;Sjøvannspumpe B
+;;50CA0001A;Sjøvannsfilter
+;;50CA0001B;Sjøvannsfilter
+;;20PA0001-M01;Test separator oil pump motor
+;;21PA0001A-M01;Oil transfer pump A motor
+;;21PA0001B-M01;Oil transfer pump B motor
+;;21HA0001;OTP A DE seal flush cooler
+;;21HA0002;OTP A NDE seal flush cooler
+;;21HA0003;OTP B DE seal flush cooler
+;;21HA0004;OTP B NDE seal flush cooler
+;;21ER0001A;VSD for OTP A
+;;21ER0001B;VSD for OTP B
+;;21LE0001;Transfer line pig launcher
+;;27LE0001;EG gas lift pig receiver
+;;21AE3517;Daily sampler
+;;21JX0002;Dagkanne i samplingskap
+;;21AE3516;Monthly sampler
+;;21JX0001;Månedskanne i samplingskap
+;;21PD0002;Haskel pump promix daily
+;;21PD0001;Haskel pump promix monthly
+;;29PA0002-M01;Water injection pump motor
+;;29ER0002;VSD water injection pump
+;;29HB0001A;WIP lube oil cooler A
+;;29HB0001B;WIP lube oil cooler B
+;;29HB0002;WIP VSD cooler
+;;29PG0001A;Lube oil pump A
+;;29PG0001B;Lube oil pump B
+;;29PA0001A-M01;SRU feed pump A motor
+;;29PA0001B-M01;SRU feed pump B motor
+;;29PA0006A-M01;Deaerator booster pump A motor
+;;29PA0006B-M01;Deaerator booster pump B motor

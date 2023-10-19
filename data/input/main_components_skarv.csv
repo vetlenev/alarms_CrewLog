@@ -1,0 +1,518 @@
+﻿AREA;EQUIPMENT GROUP;TAG;DESCRIPTION
+;;13-XX-002;Hot Crude Flushing Pump Skid
+;;18-UD-180;Tilje T1
+;;18-UD-280;Skarv A T2
+;;18-UD-380;Idun T3
+;;18-UD-580;Skarv BC T5
+;;18-UD-680;Skarv BC T6
+;;20-HA-001A;Crude Heater
+;;20-HA-001B;Crude Heater
+;;20-HA-002;Crude/ Crude Exchanger
+;;20-HA-003A;Crude Cooler
+;;20-HA-003B;Crude Cooler
+;;20-HA-004;Start Up Heater
+;;20-PA-001A;Topside Crude Pump
+;;20-PA-001B;Topside Crude Pump
+;;20-PA-001C;Topside Crude Pump
+;;20-PG-010A;Produced Water Pump
+;;20-PG-010B;Produced Water Pump
+;;20-PG-010C;Produced Water Pump
+;;20-VA-001;1st Stage Separator
+;;20-VA-002;2nd Stage Separator
+;;20-VA-003;3rd Stage Separator
+;;20-VA-004;Test Separator
+;;20-VJ-001;Electrostatic Coalescer
+;;21-JX-001;Crude Metering Package
+;;21-JX-002;Crude Metering Sampling Cabinet
+;;21-JX-003;Static Mixer for Crude Export Sampling
+;;21-S-0900;Cargo Offloading Hose
+;;23-KZ-001;1st and 2nd Stage Compressor Skid
+;;23-XX-001;1st and 2nd Stage Seal Gas Cond Skid
+;;23-KZ-103;3rd Stage Compressor Skid Train 1
+;;23-KZ-203;3rd Stage Compressor Skid Train 2
+;;23-XX-002;3rd Stage Seal Gas Conditioning Skid
+;;24-HA-001A;Wet Gas Coolers
+;;24-HA-001B;Wet Gas Coolers
+;;24-HA-001C;Wet Gas Coolers
+;;24-HA-002;Glycol Contactor Superheater
+;;24-VE-001;Glycol Contactor
+;;24-VG-001;Glycol Contactor Scrubber
+;;26-KZ-001;Injection Compressor Skid
+;;26-VG-001;Injection Compressor Suction Scrubber
+;;26-XX-002;Gas Seal Conditioning Skid
+;;27-KZ-101;Export Compressor Skid Train 1
+;;27-VG-101;Export Compressor Suction Scrubber
+;;27-KZ-201;Export Compressor Skid Train 2
+;;27-VG-201;Export Compressor Suction Scrubber
+;;27-XX-001;Seal Gas Conditioning Skid
+;;27-JX-001;Export Gas Meter
+;;27-JX-002;Export Gas Analyser Cabinet
+;;27-JX-003;Export Gas Back Flow Meter
+;;27-JZ-351;Export Gas Analyser Pressure Reduction S
+;;27-FE-001;Export Gas Back Flow Meter and Heater
+;;33-TB-510;Cargo Tank 1 P
+;;33-TB-511;Cargo Tank 1 C
+;;33-TB-512;Cargo Tank 1 S
+;;33-TB-520;Cargo Tank 2 P
+;;33-TB-522;Cargo Tank 2 S
+;;33-TB-530;Cargo Tank 3 P
+;;33-TB-531;Cargo Tank 3 C
+;;33-TB-532;Cargo Tank 3 S
+;;33-TB-540;Cargo Tank 4 P
+;;33-TB-541;Cargo Tank 4 C
+;;33-TB-542;Cargo Tank 4 S
+;;33-TB-550;Cargo Tank 5 P
+;;33-TB-551;Cargo Tank 5 C
+;;33-TB-552;Cargo Tank 5 S
+;;33-TB-560;Cargo Tank 6 P
+;;33-TB-561;Cargo Tank 6 C
+;;33-TB-562;Cargo Tank 6 S
+;;33-TB-570;Slop Tank P
+;;33-TB-580;Slop Tank C
+;;33-TB-590;Slop Tank S
+;;38-XX-001;Glycol Regeneration Package
+;;39-PS-501;Cargo Oil Pump (1P)
+;;39-PS-502;Cargo Oil Pump (1C)
+;;39-PS-503;Cargo Oil Pump (1S)
+;;39-PS-504;Cargo Oil Pump (2P)
+;;39-PS-505;Cargo Oil Pump (2S)
+;;39-PS-506;Cargo Oil Pump (3P)
+;;39-PS-507;Cargo Oil Pump (3C)
+;;39-PS-508;Cargo Oil Pump (3S)
+;;39-PS-509;Cargo Oil Pump (4P)
+;;39-PS-510;Cargo Oil Pump (4C)
+;;39-PS-511;Cargo Oil Pump (4S)
+;;39-PS-512;Cargo Oil Pump (5P)
+;;39-PS-513;Cargo Oil Pump (5C)
+;;39-PS-514;Cargo Oil Pump (5S)
+;;39-PS-515;Cargo Oil Pump (6P)
+;;39-PS-516;Cargo Oil Pump (6C)
+;;39-PS-517;Cargo Oil Pump (6S)
+;;39-PS-518;Slop Pump (P)
+;;39-PS-519;Skimmer Pump (P)
+;;39-PS-520;Slop Pump (C)
+;;39-PS-521;Skimmer Pump (C)
+;;39-PS-522;Slop Pump (S)
+;;39-PS-523;Skimmer Pump (S)
+;;39-PS-524;Portable Cargo Oil Pump
+;;39-MU-501;Hose Reel
+;;39-MZ-001;Hose Loading station FWD
+;;39-MZ-002;Fresh Water Hose Loading Station AFT
+;;41-HA-002;Hull Heating Medium Heater
+;;41-HC-001;Heating Medium Dump Cooler
+;;41-CA-001;Heating Medium Circulation Filter
+;;41-PA-001A;Heating Medium Circulation Pump
+;;41-PA-001B;Heating Medium Circulation Pump
+;;41-PA-001C;Heating Medium Circulation Pump
+;;41-VL-001;Heating Medium Expansion Tank
+;;41-HW-100;Waste Heat Recovery Unit A
+;;41-HW-200;Waste Heat Recovery Unit B
+;;41-HW-300;Waste Heat Recovery Unit C
+;;42-XR-001;Chemical Injection Package Skid
+;;42-XX-001;H2S Scavenger Skid
+;;43-VD-001;HP Flare KO Drum
+;;43-JX-001;HP Flare Metering Package
+;;43-PG-001A;HP Flare KO Drum Pump
+;;43-PG-001B;HP Flare KO Drum Pump
+;;43-VD-002;LP Flare KO Drum
+;;43-JX-002;LP Flare Metering Package
+;;43-PA-002A;LP Flare KO Drum Pump
+;;43-PA-002B;LP Flare KO Drum Pump
+;;43-FZ-001;Flare Ignition Package
+;;43-XX-007;Vapour Recovery Package
+;;43-JX-003;Oxygen Analyser Vapour Recovery
+;;43-VX-501;Cargo Vent Liquid P/V Breaker
+;;44-XX-001;Produced Water Hydrocyclones Package
+;;44-XX-002;Sand Treatment and Disposal Package
+;;44-XX-003;Produced Water Flotation Unit Package
+;;44-XX-005;Produced Water Absorption Filters Packag
+;;44-HB-001A;Produced Water Cooler
+;;44-HB-001B;Produced Water Cooler
+;;45-VG-001;Scrubber
+;;45-FE-001;Electric Fuel Gas Superheater
+;;45-HA-001;Fuel Gas Superheater
+;;45-XX-001;Fuel Gas Filter Package
+;;45-XX-002;Fuel Gas Calorimeter
+;;45-XX-100;Fuel Gas Filter/ Coalescer Unit
+;;45-XX-200;Fuel Gas Filter/ Coalescer Unit
+;;45-XX-300;Fuel Gas Filter/ Coalescer Unit
+;;45-XX-400;Fuel Gas Filter/ Coalescer Unit
+;;45-JX-001;Fuel Gas Metering Package
+;;46-PF-001A;Topside MEG Pump
+;;46-PF-001B;Topside MEG Pump
+;;46-PF-002A;Subsea MEG Pump
+;;46-PF-002B;Subsea MEG Pump
+;;46-PF-002C;Subsea MEG Pump
+;;46-PF-003A;Gas Injection MEG Pump
+;;46-PF-003B;Gas Injection MEG Pump
+;;46-PB-004A;Production Risers MEG Pump
+;;46-PB-004B;Production Risers MEG Pump
+;;46-PS-510;MEG Cargo Pump
+;;46-PS-520;Methanol Cargo Pump
+;;46-PB-005A;Ærfugl MEG pump
+;;46-PB-005B;Ærfugl MEG pump
+;;47-XX-001;Electrochlorination Package
+;;47-XX-510;Hypochlorite Generation Unit FWD
+;;47-XX-520;Hypochlorite Generation Unit AFT
+;;50-CA-301A;Seawater Filter
+;;50-CA-301B;Seawater Filter
+;;50-CA-301C;Seawater Filter
+;;50-CB-501;Seawater Strainer FWD
+;;50-CB-502;Seawater Strainer FWD
+;;50-CB-510;Seawater Strainer AFT
+;;50-CB-511;Seawater Strainer AFT
+;;50-JX-001;Hydrocarbon Analyser Syst SWater Cooling
+;;50-PA-002A;Seawater Circulating Pump
+;;50-PA-002B;Seawater Circulating Pump
+;;50-PA-501A;Main Seawater Cooling Pump FWD
+;;50-PA-501B;Main Seawater Cooling Pump FWD
+;;50-PA-502A;Seawater Charge Pump for FWater Gen
+;;50-PA-502B;Seawater Charge Pump for FWater Gen
+;;50-PA-503A;Essential Seawater Pump for Topside
+;;50-PA-503B;Essential Seawater Pump for Topside
+;;50-PA-510A;Main Seawater Cooling Pump AFT
+;;50-PA-510B;Main Seawater Cooling Pump AFT
+;;50-PA-511A;Inert Gas Generator Seawater Pump
+;;50-PA-511B;Inert Gas Generator Seawater Pump
+;;50-PA-512A;IGG Seal Pump
+;;50-PA-512B;IGG Seal Pump
+;;50-PS-100;Seawater Lift Pump
+;;50-PS-200;Seawater Lift Pump
+;;50-PS-300;Seawater Lift Pump
+;;50-PX-501;Priming Pump
+;;50-PX-510;Priming Pump
+;;52-PS-501;Ballast Pump PS
+;;52-PS-502;Ballast Pump PS
+;;52-PS-503;Ballast Pump SB
+;;52-PS-504;Ballast Pump SB
+;;52-PA-501;Fore Peak Ballast Pump
+;;52-PA-510;AFT Peak Ballast Pump
+;;52-TB-510;Fore Peak Tank
+;;52-TB-511;
+;;52-TB-512;
+;;52-TB-513;
+;;52-TB-520;
+;;52-TB-521;
+;;52-TB-522;
+;;52-TB-523;
+;;52-TB-524;
+;;52-TB-530;
+;;52-TB-531;
+;;52-TB-540;
+;;52-TB-541;
+;;52-TB-542;
+;;52-TB-543;
+;;52-TB-550;
+;;52-TB-551;
+;;52-TB-552;
+;;52-TB-553;
+;;52-TB-560;
+;;52-TB-561;
+;;52-TB-570;
+;;52-TB-580;AFT Peak P
+;;52-TB-581;AFT Peak C
+;;52-TB-582;AFT Peak S
+;;53-CB-504A;Rehardening Filter
+;;53-CB-504B;Rehardening Filter
+;;53-PA-501A;Potable Water Pump
+;;53-PA-501B;Potable Water Pump
+;;53-TX-501;Service Water Storage Tank
+;;53-TX-502;Potable Water Storage Tank
+;;53-TX-503;Potable Water Storage Tank
+;;53-TX-504;Potable Water Storage Tank
+;;53-XX-501;Fresh Water Generator Skid
+;;53-XX-510;Chlorination Unit
+;;53-XX-520;Service Water Hydrophore Unit
+;;53-XX-530;UV-Sterilization Unit (A&B)
+;;54-GW-501A;Calorifier Unit
+;;54-GW-501B;Calorifier Unit
+;;54-PA-501A;Hot Water Circulating Pump
+;;54-PA-501B;Hot Water Circulating Pump
+;;56-PA-003A;Hazardous Open Drain Pump
+;;56-PA-003B;Hazardous Open Drain Pump
+;;56-PA-008A;Non-Hazardous Open Drain Pump
+;;56-PA-008B;Non-Hazardous Open Drain Pump
+;;56-PA-510A;Main Bilge Pump FWD
+;;56-PA-510B;Main Bilge Pump FWD
+;;56-PA-530A;Main Bilge Pump AFT
+;;56-PA-530B;Main Bilge Pump AFT
+;;56-PF-501;Pump
+;;56-PF-502;Pump
+;;56-PF-503;Pump
+;;56-PF-504;Pump
+;;56-PF-505;Pump
+;;56-PF-506;Pump
+;;56-PF-507;Pump
+;;56-PF-509;Pump
+;;56-PF-510;Pump
+;;56-PF-511;Pump
+;;56-PF-513;Pump
+;;56-PF-514;Pump
+;;56-PF-515;
+;;56-PF-520;Pump
+;;56-PG-502;Bilge Transfer Pump FWD
+;;56-PG-505A;Waste Oil Drain Pump FWD
+;;56-PG-505B;Waste Oil Drain Pump FWD
+;;56-PG-521;Bilge Transfer Pump AFT
+;;56-PG-525A;Waste Oil Drain Pump AFT
+;;56-PG-525B;Waste Oil Drain Pump AFT
+;;56-PH-601A;Open Drain Pump
+;;56-PH-601B;Open Drain Pump
+;;56-TB-002A;Hazardous Open Drain Tank A
+;;56-TB-002B;Hazardous Open Drain Tank B
+;;56-TB-003;Non Hazardous Open Drain Tank
+;;56-TB-501;Bilge Water Tank FWD
+;;56-TB-505;Waste Oil Drain Tank FWD
+;;56-TB-520;Bilge Water Tank AFT
+;;56-TB-525;Waste Oil Drain Tank AFT
+;;56-TB-601;Hazardous Open Drain Tank
+;;56-XX-001;Drain Treatment Package
+;;57-PG-001A;Closed Drain Pump
+;;57-PG-001B;Closed Drain Pump
+;;57-VD-001;Closed Drain Tank
+;;57-PG-601A;Closed Drain Pump Turret
+;;57-PG-601B;Closed Drain Pump Turret
+;;57-VD-601;Closed Drain Tank Turret
+;;58-XP-510;Thruster Unit A
+;;58-XP-520;Thruster Unit B
+;;58-XP-530;Thruster Unit C
+;;58-XP-540;Thruster Unit D
+;;58-XP-550;Thruster Unit E
+;;58-PE-511;Booster Pump
+;;58-PE-521;Booster Pump
+;;58-PE-531;Booster Pump
+;;58-PE-541;Booster Pump
+;;58-PE-551;Booster Pump
+;;58-PX-502;Hydraulic Oil Transfer Pump Thruster A+B
+;;58-PX-503;Lube Oil Transfer Pump Thruster C, D+E
+;;58-PX-504;Hydraulic Oil Transfer Pump Thruster CDE
+;;58-TB-502;Hydraulic Oil Tank for Thruster A+B
+;;58-TB-503;Lube Oil Tank for C,D+E
+;;58-TB-504;Hydraulic Oil for Tank C,D+E
+;;61-XH-001;Jet Fuel Pump and Storage Unit
+;;61-XH-002;Jet Fuel Dispenser Unit
+;;61-XH-003;Jet Fuel Test and Recycle Unit
+;;62-HB-501;Diesel Oil Cooler
+;;62-PA-501A;Diesel Oil Charge Pump Topsides Gas Tur
+;;62-PA-501B;Diesel Oil Charge Pump Topsides Gas Tur
+;;62-PF-503;Essential G/E Emergency Diesel Oil Pump
+;;62-PG-502A;Diesel Oil Charge Pump Ess Generators
+;;62-PG-502B;Diesel Oil Charge Pump Ess Generators
+;;62-PG-505;Diesel Oil Coalescer/Transfer Pump
+;;62-PG-506;Diesel Coalescer/Transfer Pump
+;;62-TB-501;Diesel Oil Storage Tank (P)
+;;62-TB-502;Diesel Oil Storage Tank (S)
+;;62-TB-503;Diesel Oil Service Tank (P)
+;;62-TB-504;Diesel Oil Service Tank (S)
+;;62-TB-505;Leak Oil Tank
+;;62-TB-506;Diesel Oil Overflow Tank
+;;62-CB-501;Diesel Oil Strainer
+;;62-CB-502;Diesel Oil Strainer
+;;62-CB-503;Diesel Oil Strainer
+;;62-CB-504;Diesel Oil Strainer
+;;62-CB-507;Diesel Oil Strainer
+;;62-CB-508;Diesel Oil Strainer
+;;62-CB-505A;Diesel Oil Discharge Strainer
+;;62-CB-505B;Diesel Oil Discharge Strainer
+;;62-CB-506A;Discharge Strainer
+;;62-CB-506B;Discharge Strainer
+;;62-CB-511;Diesel Oil Pre Filter
+;;62-CB-512;Diesel Oil Coalescer Filter
+;;62-CB-513;Diesel Oil Pre Filter
+;;62-CB-514;Diesel Oil Coalescer Filter
+;;63-CB-504;Air Inlet Filter
+;;63-CB-505;Air Outlet Filter
+;;63-CB-506;Air Inlet Filter
+;;63-CB-507;Air Outlet Filter
+;;63-CB-514;Air Filter
+;;63-CB-515;Air Filter
+;;63-CB-521;Air Filter
+;;63-CB-523;Air Filter
+;;63-CB-524;Air Filter
+;;63-CB-525;Air Filter
+;;63-CB-526;Air Filter
+;;63-CB-527;Air Filter
+;;63-CB-528;Air Filter
+;;63-CB-529;Air Filter
+;;63-CB-530;Air Filter
+;;63-CB-531;Air Filter
+;;63-CB-532;Air Filter
+;;63-CB-540;Air Filter
+;;63-CB-541;Air Filter
+;;63-CB-542;Air Filter
+;;63-KB-503;Start Air Compressor for Ess Gen A
+;;63-KB-504;Start Air Compressor for Ess Gen B
+;;63-VL-503;Essential Start Air Bottle
+;;63-VL-504;Essential Start Air Bottle
+;;63-VL-501A;Instrument & Plant Air Reservoir
+;;63-VL-501B;Instrument & Plant Air Reservoir
+;;63-KZ-501A;Air Compressor Package
+;;63-KZ-501B;Air Compressor Package
+;;63-KZ-501C;Air Compressor package
+;;63-XX-501A;Air Dryer Package
+;;63-VZ-502;Quick Closing Valve Skid FWD
+;;63-VZ-505;Quick Closing Valve Skid AFT
+;;63-XX-501B;Air Dryer Package
+;;64-VL-001;Nitrogen Receiver FWD
+;;64-VL-002;Nitrogen Receiver AFT
+;;64-KX-501;Inert Gas Blower Package
+;;64-KX-502;Inert Gas Blower Package
+;;64-VX-501;Inert Gas Water Deck Seal
+;;64-VX-502;Inert Gas Liquid P/V Breaker
+;;64-VX-503;Gas Analyzer
+;;64-PZ-501;Inert Gas Fuel Pump Skid
+;;64-XC-501;Inert Gas Generator Package
+;;64-XY-001;Nitrogen Generator Package
+;;65-CT-510;HPU A
+;;65-CT-520;HPU B
+;;65-CT-530;HPU for Remote Control System
+;;65-CT-540;HPU C
+;;65-CT-701;Turret Valve HPU
+;;65-CZ-503;Auxiliary Hydraulic Unit
+;;65-CZ-520;Purifier Unit
+;;65-PZ-501;Oil Filling and Transfer Unit
+;;65-TB-501;HPU Circulating Tank
+;;65-TB-503;Hydraulic Oil Storage Tank
+;;65-HA-501;HPU Oil Cooler
+;;65-HA-502;HPU Oil Cooler
+;;65-CX-510;Solenoid Valve Cab for Rem Control System
+;;65-CX-520;Solenoid Valve Cab for Rem Control System
+;;65-CX-530;Solenoid Valve Cab for Rem Control System
+;;65-PB-505A;HP Hydraulic Pump Cargo
+;;65-PB-505B;HP Hydraulic Pump Cargo
+;;65-PB-505C;HP Hydraulic Pump Cargo
+;;65-PB-505D;HP Hydraulic Pump Cargo
+;;65-PB-505E;HP Hydraulic Pump Cargo
+;;65-PB-505F;HP Hydraulic Pump Cargo
+;;65-PB-505G;HP Hydraulic Pump Cargo
+;;65-PB-505H;HP Hydraulic Pump Cargo
+;;65-PB-505I;HP Hydraulic Pump Cargo
+;;65-PB-505K;HP Hydraulic Pump Cargo
+;;65-CB-505;HPU Duplex Filter
+;;65-CB-501A;HPU LP Filter
+;;65-CB-501B;HPU LP Filter
+;;65-PB-510;HP Hydraulic Pump
+;;65-CB-501;HP Filter
+;;65-CB-515;LP Filter
+;;65-CB-510;Filter
+;;65-CB-520;Filter
+;;65-CB-530;Filter
+;;65-CB-540;Filter
+;;65-CB-571;Filter
+;;65-CB-593;Filter
+;;65-TB-701;HPU Return Tank (Turret)
+;;65-PB-701A;HPU Pump (Turret)
+;;65-PB-701B;HPU Pump (Turret)
+;;65-PE-001;HPU Recirculation Pump (Turret)
+;;65-TB-001;Supply Tank (Turret)
+;;65-TB-002;Return Tank (Turret)
+;;65-PB-001A;LP Subsea HPU Pump (Turret)
+;;65-PB-001B;LP Subsea HPU Pump (Turret)
+;;65-PB-002A;HP Subsea HPU Pump (Turret)
+;;65-PB-002B;HP Subsea HPU Pump (Turret)
+;;66-XF-510;Sewage Treatment Plant
+;;66-PX-505A;Vacuumarator
+;;66-PX-505B;Vacuumarator
+;;66-TB-511;Sewage Transfer Tank
+;;66-PA-501;Sewage Transfer Pump
+;;68-CS-001;Barrier Fluid Central Unit
+;;68-CS-002;Barrier Fluid Central Unit
+;;68-CS-003;Barrier Fluid Central Unit
+;;68-CS-004;Barrier Fluid Central Unit
+;;68-CS-005;Barrier Fluid Central Unit
+;;69-TB-501;Lube Oil Storage Tank
+;;69-PG-501;Essential G/E Lube Oil Transfer Pump
+;;69-XX-502;Lube Oil Purifier
+;;69-XX-503;Lube Oil Purifier
+;;69-PG-502;Lube Oil Purifier Feed Pump
+;;69-PG-503;Lube Oil Purifier Feed Pump
+;;69-FE-502;Essential G/E Lube Oil Purifier Heater A
+;;69-FE-503;Essential G/E Lube Oil Purifier Heater B
+;;71-XD-510;FWD Fire Pump (P)
+;;71-XD-520;FWD Fire Pump (S)
+;;71-XD-530;AFT Fire Pump (P)
+;;71-XD-540;AFT Fire Pump (S)
+;;71-PA-501A;Fire Water Jockey Pump
+;;71-PA-501B;Fire Water Jockey Pump
+;;71-SU-501;Deluge Skid
+;;71-SU-502;Deluge Skid
+;;71-SU-503;Deluge Skid
+;;71-SU-504;Deluge Skid
+;;71-SU-505;Deluge Skid
+;;71-SU-506;Deluge Skid
+;;71-SU-507;Deluge Skid W/AFFF
+;;71-SU-508;Deluge Skid W/AFFF
+;;71-SU-509;Deluge Skid W/AFFF
+;;71-SU-510;Deluge Skid W/AFFF
+;;71-SU-511;Deluge Skid
+;;71-SU-512;Deluge Skid W/AFFF
+;;71-SU-513;Deluge Skid W/AFFF
+;;71-SU-514;Deluge Skid W/AFFF
+;;71-SU-515;Deluge Skid W/AFFF
+;;71-SU-516;Deluge Skid W/AFFF
+;;71-SU-517;Deluge Skid W/AFFF
+;;71-SU-518;Deluge Skid W/AFFF
+;;71-SU-519;Deluge Skid W/AFFF
+;;71-SU-520;Deluge Skid W/AFFF
+;;71-SU-521;Deluge Skid W/AFFF
+;;71-SU-522;Deluge Skid W/AFFF
+;;71-SU-523;Monitor Valve Skid W/AFFF
+;;71-SX-501;Firewater/ Foam Hydrant Helideck Port
+;;71-SX-502;Firewater/Foam Hydrant Helidck Starboard
+;;71-SX-503;Firewater/ Foam Hydrant Helideck Central
+;;71-TB-510;Diesel Daytank
+;;71-TB-520;Diesel Daytank
+;;71-TB-530;Diesel Daytank
+;;71-TB-540;Diesel Daytank
+;;71-TB-801;Foam Tank
+;;71-SU-901;Spare Pop Up Spray Valve Skid
+;;72-SZ-505;AFF Foam Skid Helideck
+;;72-PA-505;Helideck Foam Pump
+;;72-PE-510;Water Mist Pump Unit FWD
+;;72-SZ-511;Foam Pump Skid FWD
+;;72-TA-501;Foam Storage Tank FWD
+;;72-PE-520;Water Mist Pump Unit AFT
+;;72-SZ-521;Foam Pump Skid AFT
+;;72-TA-502;Foam Storage Tank AFT
+;;72-SM-100;Water Mist Skid Turbine Gen
+;;72-SM-200;Water Mist Skid Turbine Gen
+;;72-SM-300;Water Mist Skid Turbine Gen
+;;72-SM-400;Water Mist Skid Turbine Gen
+;;73-MC-002;Goods & Personell lift
+;;73-MC-510;Elevator in FWD Machinery Space
+;;73-MC-520;Elevator in AFT Machinery Space
+;;76-SX-095;Fireman's Equipment Cabinet S100
+;;76-SX-096;Fireman's Equipment Cabinet L900
+;;76-SX-097;Fireman's Equipment Cabinet L900
+;;76-SX-098;Fireman's Equipment Cabinet L900
+;;76-SZ-510;Marine Evacuation System Port
+;;76-SZ-520;Marine Evacuation System Starboard
+;;76-SZ-530;Marine Evacuation System Poopdeck
+;;80-EZ-600;Essential Diesel Engine Generator
+;;80-EZ-700;Essential Diesel Engine Generator
+;;80-EM-100;Main Power Generator
+;;80-EM-200;Main Power Generator
+;;80-EM-300;Main Power Generator
+;;80-EM-400;Main Power Generator
+;;80-PF-501;Emergency Pre Lube Pump
+;;80-TB-120;Back Purge Tank
+;;80-TB-170;Back Purge Tank
+;;80-CB-170A;Diesel Fuel Filter
+;;80-CB-170B;Diesel Fuel Filter
+;;80-CB-370A;Diesel Fuel Filter
+;;80-CB-370B;Diesel Fuel Filter
+;;80-PG-170;Diesel Oil Supply Pump
+;;80-PG-370;Diesel Oil Supply Pump
+;;84-DD-500;Diesel Engine for 84-EE-500
+;;84-EE-500;Emergency Diesel Generator Set
+;;84-EG-500;Generator for 84-EE-500
+;;84-TB-500;Diesel Oil Servicetank for 80-EE-500
+;;87-ZZ-300;Collective Tag For Operator Station
+;;94-YZ-501;Mooring Hawser Storage Reel & Moor Hook
+;;97-GB-510;Chilled Water Unit FWD
+;;97-GB-520;Chilled Water Unit FWD
+;;97-GB-530;Chilled Water Unit FWD
+;;97-GB-540;Chilled Water Unit AFT
+;;97-GB-550;Chilled Water Unit AFT
+;;97-GB-560;Chilled Water Unit AFT
+;;97-CG-501;Provision Refrigeration Unit
